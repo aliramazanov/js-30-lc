@@ -1,5 +1,7 @@
 # 30 Days of JavaScript Leetcode Challenge
 
+![JS30](https://github.com/aliramazanov/js-30-lc/assets/29664851/97036d57-456e-4647-8b48-df462bad4920)
+
 This repository contains solutions to 30 Days of JavaScript LC problems solved using JavaScript/TypeScript.
 
 ## Structure
