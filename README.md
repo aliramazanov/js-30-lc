@@ -11,3 +11,7 @@ The repo is organized into folders, with each folder representing a day of the c
 ## Feedback
 
 Any feedback and suggestions for improving the solutions and overall repository structure are welcome
+
+## Access
+
+https://leetcode.com/studyplan/30-days-of-javascript/
